@@ -9,4 +9,7 @@ This game was created using a JavaScript template. The game has many features in
 
 Be welcome to check it out. 
 
-To play drag the display.html file into the chrome web browser and have fun!
+Click below to play the game!
+
+
+# [Play Here](https://rawgit.com/Brendenvski/Game/code/skiGame%20(2)%20(2)/GameQuery%20Project%20Template%20v5.2/display.html)
